@@ -42,7 +42,7 @@ int main() {
     thin_edges.save("output_edges.jpg");
 
     return 0;
-}
+}```
 
 ## How to Build
 
@@ -50,4 +50,5 @@ Simply compile the source files together using your preferred C++ compiler (C++1
 
 ```bash
 g++ main.cpp ImageG.cpp Kernel.cpp -o image\_processor
-./image\_processor
+./image\_processor```
+
