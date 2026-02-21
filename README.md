@@ -47,11 +47,7 @@ int main() {
 
 ## How to Build
 
-Simply compile the source files together using your preferred C++ compiler (C++17 recommended).
+Simply compile the source files together using your preferred C++ compiler (C++17 recommended). `CMakeLists.txt` will automatically configure the build environment and link the necessary files.
 
-```bash
-g++ main.cpp ImageG.cpp Kernel.cpp -o image\_processor
-./image\_processor
-```
 
 
