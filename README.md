@@ -1,6 +1,6 @@
 # ImageG: C++ Image Processing Engine
 
-A lightweight C++ image pre-processing engine built from scratch. Developed to apply concepts from the **Algorithms (C++)** and **Medical Image Processing** courses at Politecnico di Milano.
+A lightweight C++ image processing engine built from scratch. Developed to apply concepts from the **Algorithms (C++)** and **Medical Image Processing** courses at Politecnico di Milano.
 
 The goal was to apply theoretical knowledge of Image Processing to a practical knowledge of C++ by building a dependency-free engine. Instead of relying on black-box frameworks like OpenCV, `ImageG` directly implements the core mathematical concepts of Computer Vision to deeply understand how they work under the hood. 
 
