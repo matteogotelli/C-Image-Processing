@@ -1,0 +1,13 @@
+.idea/
+cmake-build-*/
+.vscode/
+
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.lib
+
+output_*.jpg
+output_*.png
